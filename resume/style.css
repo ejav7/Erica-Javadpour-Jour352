@@ -7,13 +7,16 @@ body {
     color: #444
     font-weight: 400;
 }  
-h1 {
+#name {
     font-size:3em;
     text-transform:uppercase;
     text-align:center;
     color:#33485e;
+    border-bottom: 1px solid #33485e;
+    width:60%;
+    min-width:300px;
 }
-
+ 
 strong {
     color:#33485e;
     text-transform:uppercase; 
