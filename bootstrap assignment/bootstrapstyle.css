@@ -1,0 +1,43 @@
+@import url(http://fonts.googleapis.com/css?family=Special+Elite);
+/*Styles for Bootstrap Exercise, for Week of Oct 4*/
+
+.col-md-6 {
+    text-align:center;
+}
+
+.col-md-4 {
+    text-align:center;
+}
+
+h1 {
+    font-family: Special Elite;
+}
+h2 {
+    font-family: Special Elite;
+}
+
+h3 {
+    font-family: Special Elite;
+}
+
+.navbar-brand {
+    font-family: Special Elite;
+}
+
+.bi {
+    font-size:3em;
+}
+
+.row {
+    margin-bottom:50px;
+}
+    @media screen and (max-width: 500px) {
+
+        h2 {
+            margin-top:50px;
+        }
+        .btn {
+            font-family: Special Elite;
+            background-color:teal;
+        }
+      }
