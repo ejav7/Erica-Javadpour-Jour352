@@ -1,0 +1,54 @@
+/*Styles for Midterm SZA webpage on Oct 18*/
+
+body {
+    font-family:Helvetica, arial, sans-serif;
+    font-size:14px;
+}
+
+h1 {
+    font-size:2em;
+    text-align:center;
+    font-family:'Times New Roman', arial, sans-serif;
+}
+#masthead {
+    font-family:'Times New Roman',arial,sans-serif;
+    font-style:italic;
+    font-weight:bold;
+    font-size:4.2em;
+    text-align:center;
+    color:#5C117E;
+}
+#byline {
+    font-size:14px;
+    font-style:italic;
+    font-family:'Times New Roman', arial, sans-serif;
+}
+.subhead {
+    font-style:italic;
+    font-family:'Times New Roman', arial, sans-serif;
+    font-size:20px;
+    font-weight:bold;
+}
+blockquote {
+    font-size: 30px;
+    font-family: Helvetica, arial, sans-serif;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #9D1A13;
+    margin-left:50px;
+    padding-left:20px;
+    border-left: 4px solid grey;
+}
+#content {
+    text-align:center;
+    margin-left:70px;
+    margin-right:70px;
+}
+
+#read {
+    margin-left:20px;
+    font-size:20px;
+    font-weight:bold;
+    font-style:italic;
+}
+
