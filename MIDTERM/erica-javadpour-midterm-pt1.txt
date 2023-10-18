@@ -76,4 +76,3 @@ Serif is the fancy lines at the ends of letters and sans serif do not have them.
 - 213
 
 The first one, #FFCC33. 
-
