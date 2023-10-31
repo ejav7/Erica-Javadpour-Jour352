@@ -1,0 +1,22 @@
+.headline {
+    font-size:60px;
+    font-family:Helvetica, times, sans-serif;
+    text-align:center;
+    font-style:bold;
+}
+
+.byline {
+    font-size: 18px;
+    text-align:center;
+    color:lightgray;
+
+}
+
+.subhead {
+    font-size: 25px;
+    font-style:bold;
+}
+
+.picture {
+    text-align:center;
+}
