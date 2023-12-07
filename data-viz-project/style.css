@@ -67,6 +67,7 @@ p {
 
 .pictures {
     text-align:center;
+    width:100%;
 }
 .graphics {
     text-align:center;
@@ -105,10 +106,4 @@ p {
     .pictures {
         display:none;
     }
-}
-
-.pictures {
-    width:100%;
-    max-width: 700px;
-    text-align:center;
 }
