@@ -1,0 +1,114 @@
+body {
+    font-family: 'Hedvig Letters Serif', sans-serif;
+    background-color:#ffecf2;
+}
+
+p {
+    font-family: 'Hedvig Letters Serif', sans-serif;
+    font-size:1.3em;
+}
+
+.container {
+    font-family: 'Hedvig Letters Serif', sans-serif;
+}
+
+.hero-container {
+    position: relative;
+    text-align: center;
+    color:white;
+}
+
+.hero-image {
+    width:100%;
+    background-size:cover;
+    height:80vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.overlay {
+    position:fixed;
+    top:5%;
+    width:100%;
+    margin:auto;
+    background-color:white;
+    opacity:.74;
+}
+
+.hero-hed {
+    font-family: 'Staatliches', sans-serif;
+    font-size:3em;
+    color:black;
+    margin:0 auto;
+    padding-bottom:5px;
+    line-height:normal;
+    cursor: default;
+    transition: color 0.5s linear;
+    text-align:center;
+
+}
+
+.miniheaders {
+    font-weight: bold;
+    font-size: 1.35em;
+    line-height:45px;
+}
+
+.photo-caption {
+    font-size:0.8em;
+    font-style:italic;
+    text-align:center;
+}
+
+.publish-date {
+    font-size:0.9em;
+    color:darkgrey;
+}
+
+.pictures {
+    text-align:center;
+}
+.graphics {
+    text-align:center;
+}
+
+/*Quote*/
+
+.quote {
+    font-family:'Hedvig Letters Serif',sans-serif;
+    font-size:2.75em;
+    font-weight:750;
+    text-align:left;
+    padding:15px 0 15px 0;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    margin-top:20px;
+    margin-bottom:20px;
+    color:#ee1f6a;
+}
+
+.quote-attribution {
+    font-size:0.5em;
+    font-family:'Hedvig Letters Serif',sans-serif;
+    font-weight:120;
+    text-align:left;
+    color:black;
+}
+
+
+@media screen and (max-width: 800px) {
+    .pictures {
+        width:100%;
+    }
+}
+@media screen and (max-width: 400px) {
+    .pictures {
+        display:none;
+    }
+}
+
+.pictures {
+    width:100%;
+    max-width: 700px;
+    text-align:center;
+}
